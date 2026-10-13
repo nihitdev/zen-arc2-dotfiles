@@ -1,0 +1,30 @@
+@-moz-document url("about:newtab"), url("about:home") {
+  html,
+  body,
+  #root,
+  #newtab-customize-overlay,
+  .outer-wrapper,
+  .body-wrapper {
+    background-color: transparent !important;
+  }
+
+  html,
+  body {
+    min-height: 100vh !important;
+    background-image: url("fireplace.gif") !important;
+    background-position: center center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+  }
+}
+
+/* Minimal Zen New Tab: hide logo and search */
+@-moz-document url("about:newtab"), url("about:home") {
+  .logo-and-wordmark,
+  .search-wrapper,
+  .search-handoff-button,
+  .search-inner-wrapper {
+    display: none !important;
+  }
+}

@@ -1,0 +1,16 @@
+/* Global config */
+@import url("CONFIG.css");
+
+/* Chrome styles */
+@import url("modules/Chrome/animations.css");
+@import url("modules/Chrome/icons.css");
+@import url("modules/Chrome/general.css");
+@import url("modules/Chrome/pinned-extensions.css");
+@import url("modules/Chrome/pip.css");
+@import url("modules/Chrome/sidebar.css");
+@import url("modules/Chrome/tab-folders.css");
+@import url("modules/Chrome/tab-styles.css");
+@import url("modules/Chrome/URLbar.css");
+@import url("modules/Chrome/workspace-buttons.css");
+@import url("modules/Chrome/deta.css");
+@import url("modules/Chrome/borders.css");

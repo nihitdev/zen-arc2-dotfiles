@@ -1,0 +1,129 @@
+{
+  "files": [
+    {
+      "path": "chrome/CONFIG.css",
+      "sha256": "103c2cb5e7e4d3844e3efde01ab6be63e9fb3d4d2873a75ee5648f03fbffac7e"
+    },
+    {
+      "path": "chrome/fireplace.gif",
+      "sha256": "e22b2836972096462b81f3ea7f0ab1f19285d9bf15ff17a3bcad0f649aac119a"
+    },
+    {
+      "path": "chrome/fonts/nunito-italic.ttf",
+      "sha256": "2ba9b57ac941060b8ffd42b1f35ead805096b1f2c88ef6c758d5aa60aa81d5ce"
+    },
+    {
+      "path": "chrome/fonts/nunito.ttf",
+      "sha256": "835ad546fb68812518b53b6a47d9ec4fdd5fdd7b7b265c60bd0875284d5f1a06"
+    },
+    {
+      "path": "chrome/fonts/sf-pro.ttf",
+      "sha256": "216c8f70fc35fb8161d03a7f8ddf5fff5760e1879688d70eb20ed9779b8ffee2"
+    },
+    {
+      "path": "chrome/fonts/sf-symbols.ttf",
+      "sha256": "a67da6eb0df5b7aeacc38b53d09a97264ac383a886b0d632a0e1889e69463e83"
+    },
+    {
+      "path": "chrome/fonts/suse-italic.ttf",
+      "sha256": "da0e638aa33d185de457989741f631008a099318b76314739b0eac56003406ee"
+    },
+    {
+      "path": "chrome/fonts/suse.ttf",
+      "sha256": "a13781b79a459001c2ed0370ec059a5ff3906641adad1dd8db5d1b06c1f29860"
+    },
+    {
+      "path": "chrome/modules/Chrome/URLbar.css",
+      "sha256": "de99425cf04ec6e17f0180dccbc14a0631fd4af82b29f829d685383ab156edfb"
+    },
+    {
+      "path": "chrome/modules/Chrome/animations.css",
+      "sha256": "c3620aad48d7f35dea06898ab60c4fe68187badc308e47a26baea9a10a9305e5"
+    },
+    {
+      "path": "chrome/modules/Chrome/borders.css",
+      "sha256": "5c91e168f501a3f9ff004666b939ad952d13aec827742f3d5d859ca183c2cd54"
+    },
+    {
+      "path": "chrome/modules/Chrome/deta.css",
+      "sha256": "142ea640fba9aaceb412674b4d97feed5439134ff178789382a0c429ccf720ab"
+    },
+    {
+      "path": "chrome/modules/Chrome/fonts/Nunito-Italic-VariableFont_wght.ttf",
+      "sha256": "2ba9b57ac941060b8ffd42b1f35ead805096b1f2c88ef6c758d5aa60aa81d5ce"
+    },
+    {
+      "path": "chrome/modules/Chrome/fonts/Nunito-VariableFont_wght.ttf",
+      "sha256": "835ad546fb68812518b53b6a47d9ec4fdd5fdd7b7b265c60bd0875284d5f1a06"
+    },
+    {
+      "path": "chrome/modules/Chrome/fonts/SF-Pro.ttf",
+      "sha256": "216c8f70fc35fb8161d03a7f8ddf5fff5760e1879688d70eb20ed9779b8ffee2"
+    },
+    {
+      "path": "chrome/modules/Chrome/fonts/SF-Symbols.ttf",
+      "sha256": "a67da6eb0df5b7aeacc38b53d09a97264ac383a886b0d632a0e1889e69463e83"
+    },
+    {
+      "path": "chrome/modules/Chrome/fonts/SUSE-Italic-VariableFont_wght.ttf",
+      "sha256": "da0e638aa33d185de457989741f631008a099318b76314739b0eac56003406ee"
+    },
+    {
+      "path": "chrome/modules/Chrome/fonts/SUSE-VariableFont_wght.ttf",
+      "sha256": "a13781b79a459001c2ed0370ec059a5ff3906641adad1dd8db5d1b06c1f29860"
+    },
+    {
+      "path": "chrome/modules/Chrome/general.css",
+      "sha256": "c274ec7dd8449bf68c516259e8a509b0ae63e24e9b5d8bcc92a77e6f56ba36cb"
+    },
+    {
+      "path": "chrome/modules/Chrome/icons/archive.svg",
+      "sha256": "218042fd4429c4accbd9aa53423055ee0656a804341b97e10c502c08e3f55375"
+    },
+    {
+      "path": "chrome/modules/Chrome/icons/sidebar.svg",
+      "sha256": "5e800b136764d92d8a971d37891067b89dfc976b75e0a87d6cf8b9963fe1a086"
+    },
+    {
+      "path": "chrome/modules/Chrome/icons.css",
+      "sha256": "2921ecf49ffc03751de0829af2ff18f9f8c85c57d592850affd86055618af69a"
+    },
+    {
+      "path": "chrome/modules/Chrome/pinned-extensions.css",
+      "sha256": "b98602275e7cec9ca55d8f8b0db2eca15adac29b9970695e4a2b3830b8fa00d6"
+    },
+    {
+      "path": "chrome/modules/Chrome/pip.css",
+      "sha256": "587bb369308e9f4b8cc04f13afc81d3e586245a6b7fadcff9ac8781959daef65"
+    },
+    {
+      "path": "chrome/modules/Chrome/sidebar.css",
+      "sha256": "100e7935c6a6010ab051bc499a3b3092d8c93a072225487ab728eedf9b2897dc"
+    },
+    {
+      "path": "chrome/modules/Chrome/tab-folders.css",
+      "sha256": "d303d6c79b3122d36a2ab142d32c4a405f31d1ac35a0a2ad2e5ea22cea37b64e"
+    },
+    {
+      "path": "chrome/modules/Chrome/tab-styles.css",
+      "sha256": "fc3a46624f6a1e92fe5fb8559ce6fd154c97b2e09a9d66604e50ab52e60a1846"
+    },
+    {
+      "path": "chrome/modules/Chrome/workspace-buttons.css",
+      "sha256": "f0c9a8f7a97d2893e9385716486df5022edd25105bc5d45fbada083af84ca11d"
+    },
+    {
+      "path": "chrome/userChrome.css",
+      "sha256": "6512d51a21a021f9090584a2fc84628406ed0509e0db7103b7d83015c9186131"
+    },
+    {
+      "path": "chrome/userContent.css",
+      "sha256": "2de27012fdff9ea86a84030936a6632ad28ac9f533a37801353688fd36f37d97"
+    },
+    {
+      "path": "chrome/zen-themes.css",
+      "sha256": "6302482066a1ffed111c2b202d5bee752e18af210cb49234f1007f847a03fcca"
+    }
+  ],
+  "preferences_sha256": "0b112e23b0ee938f71950bdbc67eebc48539f687eee55a1148ff3ffd1429ce6e"
+}

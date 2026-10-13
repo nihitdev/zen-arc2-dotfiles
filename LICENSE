@@ -1,0 +1,48 @@
+This repository contains components under different terms. There is no single
+license that grants redistribution rights to every included asset.
+
+Original packaging, installers, validation scripts and documentation:
+MIT License
+Copyright (c) 2026 nihitdev
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Third-party theme code and assets are NOT covered by the above MIT grant:
+
+* Arc 2.0: YashjitPal (Equinox), with upstream contributors. Its author grants
+  permission to fork, modify and redistribute with credit, as recorded in
+  licenses/Arc-2.0-PERMISSION.md. This is not an MIT license from that author.
+* Nebula-derived code: JustADumbPrsn and contributors, GPL-3.0; see
+  licenses/Nebula-GPL-3.0.txt. Source CSS is provided in chrome/.
+* Arc_Zen_Theme icons: Copyright (c) 2025 Studio Movie Girl, MIT;
+  licenses/Arc-Zen-Theme-MIT.txt.
+* Zen Mods snapshot: Copyright (c) 2024 Zen Browser and the individual mod
+  authors credited in chrome/zen-themes.css; licenses/Zen-Mods-MIT.txt.
+* Nunito: Copyright 2014 The Nunito Project Authors, SIL OFL 1.1;
+  licenses/Nunito-OFL.txt.
+* SUSE: Copyright 2025 The SUSE Project Authors, SIL OFL 1.1;
+  licenses/SUSE-OFL.txt.
+* SF Pro and SF Symbols: Apple Inc., proprietary. No redistribution license
+  is granted by this repository. Included locally at the repository owner's
+  express request. See licenses/Apple-font-embedded-notice.txt and
+  https://developer.apple.com/fonts/ . PUBLICATION LICENSING ISSUE UNRESOLVED.
+* fireplace.gif: nihitdev confirmed ownership and authorized its inclusion.
+  All other rights reserved; no additional reuse license is implied here.
+
+No authorship of upstream theme code or third-party assets is claimed by nihitdev.

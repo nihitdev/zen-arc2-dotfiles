@@ -1,0 +1,37 @@
+{
+  "changes": [
+    {
+      "from": "https://github.com/YashjitPal/Arc-2.0/raw/main/Arc%202.0/Chrome%20CSS/fonts/SF-Symbols.ttf",
+      "to": "fonts/SF-Symbols.ttf"
+    },
+    {
+      "from": "https://github.com/YashjitPal/Arc-2.0/raw/main/Arc%202.0/Chrome%20CSS/fonts/SF-Pro.ttf",
+      "to": "fonts/SF-Pro.ttf"
+    },
+    {
+      "from": "https://github.com/YashjitPal/Arc-2.0/raw/refs/heads/main/Arc%202.0/Chrome%20CSS/fonts/Nunito-VariableFont_wght.ttf",
+      "to": "fonts/Nunito-VariableFont_wght.ttf"
+    },
+    {
+      "from": "https://github.com/YashjitPal/Arc-2.0/raw/refs/heads/main/Arc%202.0/Chrome%20CSS/fonts/Nunito-Italic-VariableFont_wght.ttf",
+      "to": "fonts/Nunito-Italic-VariableFont_wght.ttf"
+    },
+    {
+      "from": "https://github.com/YashjitPal/Arc-2.0/raw/refs/heads/main/Arc%202.0/Chrome%20CSS/fonts/SUSE-VariableFont_wght.ttf",
+      "to": "fonts/SUSE-VariableFont_wght.ttf"
+    },
+    {
+      "from": "https://github.com/YashjitPal/Arc-2.0/raw/refs/heads/main/Arc%202.0/Chrome%20CSS/fonts/SUSE-Italic-VariableFont_wght.ttf",
+      "to": "fonts/SUSE-Italic-VariableFont_wght.ttf"
+    },
+    {
+      "from": "https://raw.githubusercontent.com/neurokitti/Arc_Zen_Theme/6da4c1ca78cc521bea1026ff024fcc8528ae6a49/icons/sidebar.svg",
+      "to": "icons/sidebar.svg"
+    },
+    {
+      "from": "https://raw.githubusercontent.com/neurokitti/Arc_Zen_Theme/6da4c1ca78cc521bea1026ff024fcc8528ae6a49/icons/archive.svg",
+      "to": "icons/archive.svg"
+    }
+  ],
+  "note": "Only asset URLs in modules/Chrome/icons.css were made relative; all other copied files are byte-for-byte originals."
+}

@@ -1,0 +1,5 @@
+# Keep upstream bytes and manifest hashes stable, including on Windows.
+* -text
+*.sh text eol=lf
+*.py text eol=lf
+*.ps1 text eol=lf
